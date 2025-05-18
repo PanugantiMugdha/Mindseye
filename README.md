@@ -12,7 +12,7 @@
 
 ## 🧑‍🎨 About the Creators
 
-This project is a collaboration between two artists who are also computer science enthusiasts. Inspired by the idea of making their artwork accessible to everyone, they decided to create a digital storefront where art meets code.
+This project is a collaboration between two artists who are also computer science enthusiasts. Inspired by the idea of making their artwork accessible to everyone, they decided to create a digital storefront where art meets code. 
 
 ## 📦 How to Run
 
